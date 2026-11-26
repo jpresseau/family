@@ -14,7 +14,7 @@
    Icons and the manifest are cache-first — they never change without
    the version changing too.
    ------------------------------------------------------------------ */
-const VERSION = "2a19158fd2b1";
+const VERSION = "b4fe26365594";
 const CACHE = "widows-dower-" + VERSION;
 const ASSETS = ["./","manifest.webmanifest","icon.svg","icon-192.png","icon-512.png","apple-touch-icon.png"];
 const NETWORK_TIMEOUT_MS = 4000;
