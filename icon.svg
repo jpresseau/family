@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Brand mark for the home-screen icon. Drawn as paths, not text, so it
+       renders identically everywhere. Content sits inside the central 80%
+       so the same art works as a maskable (Android) icon. -->
+  <rect width="512" height="512" fill="#14171a"/>
+  <path d="M150 336V176l106 104 106-104v160" fill="none" stroke="#7fb094"
+        stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M150 386h212" fill="none" stroke="#c9a24b" stroke-width="12"
+        stroke-linecap="round" stroke-dasharray="1 26"/>
+</svg>
